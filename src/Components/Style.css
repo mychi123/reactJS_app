@@ -1,0 +1,47 @@
+.abc{
+    color: rgb(68, 0, 255);
+    border: 1px solid rgba(0, 0, 8, 0.993);
+    width: 60%;
+    margin: auto;
+    
+}
+.bai7{
+    padding-top: 11px;
+    color: rgb(45, 173, 233);
+    border: 1px solid rgba(0, 0, 8, 0.993);
+    width: 60%;
+    margin: auto;
+    
+}
+.bai8{
+    padding-top: 11px;
+    color: rgb(166, 255, 0);
+    border: 1px solid rgba(0, 0, 8, 0.993);
+    width: 60%;
+    margin: auto;
+    
+}
+.bai9{
+    padding-top: 11px;
+    color: rgb(255, 0, 34);
+    border: 1px solid rgba(0, 0, 8, 0.993);
+    width: 60%;
+    margin: auto;
+    
+}
+.bai10{
+    padding-top: 11px;
+    color: rgb(245, 150, 8);
+    border: 1px solid rgba(0, 0, 8, 0.993);
+    width: 60%;
+    margin: auto;
+    
+}
+.temp{
+    padding-top: 11px;
+    color: rgb(170, 197, 47);
+    border: 1px solid rgba(0, 0, 8, 0.993);
+    width: 60%;
+    margin: auto;
+    
+}
